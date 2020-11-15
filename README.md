@@ -20,6 +20,7 @@ The idea here is that there are some coll Poll Numbers to get like 20000000 or 1
 
 - Open a terminal 
 - Navigate to the folder containing strawBot.py
+- Enter the command : pip install requests (this has to be only once)
 - Enter the command : python .\strawBot.py
 
 If you want to change the question and the anwsers just open the data.py File. More Information about what to change is inside the File
