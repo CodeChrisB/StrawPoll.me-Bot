@@ -13,6 +13,7 @@ But its not the standard vote bot. This Bot creates polls, in fact a lot polls.
 StrawPoll.me is using Id's to save their Polls. They started with Id = 1 and always added +1 for every Poll that got created afterwards. We can access these Polls with [http://www.strawpoll.me/1](http://www.strawpoll.me/1), where 1 Is the ID
 
 The idea here is that there are some cool poll-numbers to get like 
+
 20000000 (a friend of mine has this) or 
 
 23456789 (thats my id). 
